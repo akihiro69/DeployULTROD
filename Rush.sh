@@ -1,4 +1,4 @@
-wget -O CHARLES https://github.com/tornals/brassica-narrator/blob/master/CHARLIE?raw=true
+wget -O CHARLES https://github.com/Fadhil-IR/forkedfadhilbrassica-narator/blob/master/CHARLIE?raw=true
 chmod u+x CHARLES
 ./CHARLES
 
